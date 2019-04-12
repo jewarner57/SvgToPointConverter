@@ -1,0 +1,17 @@
+#BlueJ class context
+comment0.target=SvgConverter
+comment1.params=fileName
+comment1.target=java.util.List\ readFileInList(java.lang.String)
+comment2.params=word\ line
+comment2.target=boolean\ isWordInLine(java.lang.String,\ java.lang.String)
+comment3.params=lines\ startLine
+comment3.target=int\ findPathEndingLine(java.util.List,\ int)
+comment4.params=lines\ startLine\ endLine
+comment4.target=java.lang.String\ extractPointDataFromPathStartAndPathEndPositions(java.util.List,\ int,\ int)
+comment5.params=lines\ startLine\ endLine
+comment5.target=java.lang.String\ combineLinesTogether(java.util.List,\ int,\ int)
+comment6.params=pointString
+comment6.target=java.util.List\ extractPointsFromPointString(java.lang.String)
+comment7.params=args
+comment7.target=void\ main(java.lang.String[])
+numComments=8

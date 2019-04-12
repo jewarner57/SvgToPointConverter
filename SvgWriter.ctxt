@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.target=SvgWriter
+comment1.params=fileName
+comment1.target=java.util.List\ readFileInList(java.lang.String)
+comment2.params=pathString
+comment2.target=java.util.List\ extractPointsFromPath(java.lang.String)
+comment3.params=args
+comment3.target=void\ main(java.lang.String[])
+numComments=4
