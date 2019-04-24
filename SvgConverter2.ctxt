@@ -1,0 +1,19 @@
+#BlueJ class context
+comment0.target=SvgConverter2
+comment1.params=
+comment1.target=com.fazecast.jSerialComm.SerialPort\ getSerialPort()
+comment2.params=fileName
+comment2.target=java.util.List\ readFileInList(java.lang.String)
+comment3.params=word\ line
+comment3.target=boolean\ isWordInLine(java.lang.String,\ java.lang.String)
+comment4.params=lines\ startLine
+comment4.target=int\ findPathEndingLine(java.util.List,\ int)
+comment5.params=lines\ startLine\ endLine
+comment5.target=java.lang.String\ extractPointDataFromPathStartAndPathEndPositions(java.util.List,\ int,\ int)
+comment6.params=lines\ startLine\ endLine
+comment6.target=java.lang.String\ combineLinesTogether(java.util.List,\ int,\ int)
+comment7.params=pointString
+comment7.target=java.util.List\ extractPointsFromPointString(java.lang.String)
+comment8.params=args
+comment8.target=void\ main(java.lang.String[])
+numComments=9
